@@ -24,7 +24,7 @@ public class Account extends BaseEntity {
     private Boolean defaultAccount;
     private Set<CreditCard> creditCards;
     private Set<Address> addresses;
-
+    private String test;
     public Account() {
     }
 
