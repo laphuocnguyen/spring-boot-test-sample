@@ -26,6 +26,7 @@ public class Account extends BaseEntity {
     private Set<Address> addresses;
     private String test;
     private String test1;
+    private String test3;
     public Account() {
     }
 
